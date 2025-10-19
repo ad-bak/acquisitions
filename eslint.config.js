@@ -56,6 +56,8 @@ export default [
       'coverage/**',
       'logs/**',
       'drizzle/**',
+      '.env*',
+      '*.log',
     ],
   },
 ];
